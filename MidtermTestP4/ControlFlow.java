@@ -8,5 +8,16 @@ public class ControlFlow {
         System.out.println("b. Java produces an error message.");
         System.out.println("c. The code compiles but doesn't work correctly.");
         System.out.println("d. The compiler ignores the error.");
+        char answer = myObj.next().charAt(0);
+        
+        switch(answer){
+	        case b: 
+		        System.out.println(“Correct.”);
+		        break;
+	        default:
+		        System.out.println(“Incorrect.”);
+        }
+
+        
     }
 }
