@@ -1,3 +1,5 @@
+package MidtermTestP4;
+
 import java.util.Random;
 
 public class RandomLogic {
