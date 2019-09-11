@@ -32,10 +32,5 @@ public class MidtermTestP4 {
 //Catherine was here
 // the phoenix has landed :)))
 //evan was here
-<<<<<<< HEAD
 //zahraan was here
-
-
-=======
 //Eagan was here
->>>>>>> 69696c201cfd0f96661e52ec999d4df938495aa8
