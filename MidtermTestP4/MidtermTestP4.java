@@ -23,13 +23,13 @@ public class MidtermTestP4 {
     }
 }
 
-// Mr M was here again
 
+// Andrei waz heres
 // lucy was here
 //jared was here
-//mateo wa he
-//mateo wa he
-//mateo wa he
+//mateo was here but now he is not here
 //Ethan was here
 //Catherine was here
 // the phoenix has landed :)))
+//evan was here
+//Eagan was here
