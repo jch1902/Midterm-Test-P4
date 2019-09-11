@@ -24,5 +24,9 @@ public class MidtermTestP4 {
 }
 
 // Mr M was here again
-//Ethan was here
+
 // lucy was here
+//jared was here
+//mateo wa he
+//Ethan was here
+
