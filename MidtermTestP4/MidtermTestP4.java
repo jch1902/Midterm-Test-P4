@@ -27,7 +27,7 @@ public class MidtermTestP4 {
 // Andrei waz heres
 // lucy was here
 //jared was here
-//mateo wa he
+//mateo was here but now he is not here
 //Ethan was here
 //Catherine was here
 //evan was here
