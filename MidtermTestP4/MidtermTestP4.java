@@ -31,5 +31,4 @@ public class MidtermTestP4 {
 //mateo wa he
 //mateo wa he
 //Ethan was here
-// the phoenix has landed :))
 
