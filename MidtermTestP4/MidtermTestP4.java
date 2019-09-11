@@ -28,5 +28,8 @@ public class MidtermTestP4 {
 // lucy was here
 //jared was here
 //mateo wa he
+//mateo wa he
+//mateo wa he
 //Ethan was here
+//Catherine was here
 
