@@ -32,12 +32,8 @@ public class MidtermTestP4 {
 //mateo was here but now he is not here. He went to the bathroom but he will be back in a few minutes
 //Ethan was here
 //Catherine was here
-
 //Dana was here
 // the phoenix has landed :)))
 //evan was here
-
 //zahraan was here
-
 //Eagan was here
-
